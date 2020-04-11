@@ -1,7 +1,7 @@
 ---
 title: Hexo+Github+git
 date: 2020-04-05 19:45:12
-tags: 建站
+tags: blog_site_built-up
 ---
 ## 配置Github和git
 ### 配置什么?

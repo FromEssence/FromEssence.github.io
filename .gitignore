@@ -4,4 +4,6 @@ db.json
 *.log
 node_modules/
 .deploy*/
-
+package.json
+package-lock.json
+protobufjs@6.8.9
