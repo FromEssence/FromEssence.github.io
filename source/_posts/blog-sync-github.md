@@ -5,7 +5,7 @@ tags: blog_site_built-up
 ---
 ## 配置Github和git
 ### 配置什么?
-![配置什么](/blog-imgs/20040501_01.png)
+![配置什么](/public/blog-imgs/20040501_01.png) 
 
 ### 配置流程
 
